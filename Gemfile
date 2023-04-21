@@ -1,0 +1,9 @@
+source "https://rubygems.org"
+gem 'json'
+gem 'dotenv'
+gem 'http'
+gem 'rspec'
+gem 'pry'
+gem 'watir'
+gem 'selenium-webdriver'
+gem 'launchy'
